@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### I'm Louise Capener and I work as a Research Associate for the [UK Data Service](https://ukdataservice.ac.uk).![UKDS-logo](https://avatars.githubusercontent.com/u/23523013?s=48&v=4)
+### I'm Louise Capener and I work as a Research Associate for the [UK Data Service](https://ukdataservice.ac.uk).![UKDS-logo]([https://avatars.githubusercontent.com/u/23523013?s=48&v=4](https://raw.githubusercontent.com/LouCapener/LouCapener/main/ukds-logo-50-percent.jpeg))
 
 #### You can find the UKDS GitHub here: [UKDataServiceOpen](https://github.com/UKDataServiceOpen)
 
