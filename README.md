@@ -13,6 +13,7 @@ Personal links/info:
 - 📫 louise.capener@manchester.ac.uk
 
 I'm currently working on getting a workshop up and running on how to create interactive visualisations.
+
 After that I'd like to look into Social Network Analysis. 
 
 <!--
