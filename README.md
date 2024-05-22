@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+### I'm Louise Capener and I work as a Research Associate for the UK Data Service.
+
+### You can find the UKDS GitHub here: [UKDataServiceOpen]('https://github.com/UKDataServiceOpen')
+
 <!--
 **LouCapener/LouCapener** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
