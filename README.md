@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-### I'm Louise Capener and I'm a Research Associate at the [UK Data Service](https://ukdataservice.ac.uk)
+### I'm Louise Capener and I'm a Research Associate at the [UK Data Service](https://ukdataservice.ac.uk).
 
 #### Specifically, I am part of the Computational Social Science team. 
 
-#### You can find the UKDS GitHub here: [UKDataServiceOpen](https://github.com/UKDataServiceOpen)
+#### You can find the UKDS GitHub here: [UKDataServiceOpen](https://github.com/UKDataServiceOpen).
 
 Personal links/info:
 
