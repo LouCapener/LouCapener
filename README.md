@@ -12,6 +12,9 @@ Personal links/info:
 - 🔗 [LinkedIn](https://www.linkedin.com/in/lcapener/)
 - 📫 louise.capener@manchester.ac.uk
 
+I'm currently working on getting a workshop up and running on how to create interactive visualisations.
+After that I'd like to look into Social Network Analysis. 
+
 <!--
 **LouCapener/LouCapener** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
