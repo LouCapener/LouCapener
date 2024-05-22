@@ -1,8 +1,16 @@
 ## Hi there 👋
 
-### I'm Louise Capener and I work as a Research Associate for the [UK Data Service](https://ukdataservice.ac.uk) ![UKDS-logo](https://raw.githubusercontent.com/LouCapener/LouCapener/main/ukds-logo-50-percent.jpeg)
+### I'm Louise Capener and I'm a Research Associate at the [UK Data Service](https://ukdataservice.ac.uk)
+
+#### Specifically, I am part of the Computational Social Science team. 
 
 #### You can find the UKDS GitHub here: [UKDataServiceOpen](https://github.com/UKDataServiceOpen)
+
+Personal links/info:
+
+- 🐦 [Twitter/X](https://x.com/CapenerLouise) as @CapenerLouise
+- 🔗 [LinkedIn](https://www.linkedin.com/in/lcapener/)
+- 📫 louise.capener@manchester.ac.uk
 
 <!--
 **LouCapener/LouCapener** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
